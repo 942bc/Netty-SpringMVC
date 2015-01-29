@@ -1,4 +1,4 @@
-package org.kurt.netty;
+package org.kurt.netty.server;
 
 /**
  * Created by kurt on 2015/1/28.

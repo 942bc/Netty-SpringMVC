@@ -4,7 +4,6 @@ import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
-import org.kurt.netty.Environment;
 import org.kurt.netty.channel.DispatcherServletChannelInitializer;
 
 /**
